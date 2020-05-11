@@ -1,11 +1,11 @@
 # Site settings
-author: Ibiene LongJohn
-title: 
+author: Ibiene Michelle LongJohn
+title: Why did you decide to study Software Engineering?
 header-img: img/home-bg.png
 email: bgirlapollo@gmail.com
-copyright_name: Ibiene LongJohn
+copyright_name: Ibiene Michelle LongJohn
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I actually didn't at first
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  CodingBgirl
